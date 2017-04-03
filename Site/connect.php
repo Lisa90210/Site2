@@ -5,4 +5,3 @@
  * Date: 03.04.2017
  * Time: 21:14
  */
-echo "Hello, World!";
